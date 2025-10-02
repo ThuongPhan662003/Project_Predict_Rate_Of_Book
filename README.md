@@ -75,11 +75,10 @@ Dùng matplotlib/seaborn để quan sát tương quan giữa đặc trưng (ví 
 
 > **Bảng kết quả mẫu** (điền số liệu thực nghiệm của bạn):
 >
-> |           Mô hình | MAE | MSE | R²  |
-> | ----------------: | :-: | :-: | :-: |
-> | Linear Regression |  …  |  …  |  …  |
-> |               SVR |  …  |  …  |  …  |
-> |     MLP Regressor |  …  |  …  |  …  |
+> |           Mô hình | MAE      | MSE      | R²       |
+> | Linear Regression | 0.233003 | 0.096318 | 0.032231 |
+> |               SVR | 0.216232 | 0.086103 | 0.134861 |
+> |     MLP Regressor | 0.221153 | 0.086954 | 0.126316 |
 
 ## Cài đặt
 
